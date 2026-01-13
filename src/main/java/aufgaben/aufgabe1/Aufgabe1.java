@@ -308,7 +308,7 @@ public class Aufgabe1
             printNChars(upperHalf-row, ' ');
 
 
-            printNChars(row*2+1, '1');
+            printNChars(row*2+1, '*');
 
 
             System.out.println();
