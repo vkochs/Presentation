@@ -414,7 +414,7 @@ public class Aufgabe1
         printNChars(2*upperHalf-1, ' ');
 
 
-        printNChars(1, '*');
+        printNChars(1, '2');
 
 
         System.out.println();
